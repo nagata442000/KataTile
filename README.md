@@ -1,0 +1,2 @@
+# KataTile
+Katagoを改造してTileGameのAIを作ることを目指す
